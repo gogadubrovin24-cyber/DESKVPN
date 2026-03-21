@@ -1,3 +1,7 @@
+#profile-update-interval: 1
+#profile-title: DESKVPN: МИНИ ПОДПИСКА 
+#profile-web-page-url: https://t.me/DESKVPN_RUSSIA
+#announce:ТГК: @DESKVPN_RUSSIA
 vless://c6210586-6fd3-405a-905e-de7fb2d68d96@193.233.49.120:34046?security=reality&encryption=none&pbk=6qVBeg9qlJRuo_AIi2C-Dke58Z79uzvXQo38Jw5QsCw&headerType=none&fp=chrome&spx=%2F&type=tcp&flow=xtls-rprx-vision&sni=www.vk.com&sid=de636ea175ff8ccc#%F0%9F%94%A5%20%D0%A3%D0%BC%D0%BD%D1%8B%D0%B9 
 vless://3f45dd2a-307c-44c8-8fad-c1462b682547@81.90.17.76:40015?security=reality&encryption=none&pbk=wukDRMx030hw_JBTR_kWP3aSdX5q9t-Wuei-_ZYk4x8&headerType=none&fp=chrome&spx=%2F&type=tcp&flow=xtls-rprx-vision&sni=github.com&sid=cd#%F0%9F%87%B5%F0%9F%87%B1%20%D0%9F%D0%BE%D0%BB%D1%8C%D1%88%D0%B0
  hysteria2://rstnnl%3AOdAee0iXQALGJNhMVDnhA79WZoyqMse6@150.241.65.18:2026?security=tls&insecure=0&pinSHA256=05%3A62%3A12%3A68%3A1A%3AF3%3A7D%3A1B%3A38%3ABE%3A89%3A04%3A7D%3A05%3A4B%3A54%3A42%3A54%3ACD%3A97%3AD4%3A11%3AB5%3A10%3AEF%3AA1%3AE5%3A9D%3A13%3A11%3A69%3AA9&sni=rstnnl.duckdns.org#%F0%9F%87%B8%F0%9F%87%AA%20%D0%A8%D0%B2%D0%B5%D1%86%D0%B8%D1%8F 
